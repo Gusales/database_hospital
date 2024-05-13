@@ -11,6 +11,10 @@ Um pequeno hospital local busca desenvolver um novo sistema que atenda melhor à
 - Convênio;
 - Receita;
 - Especialização;
+- Enfermeiro;
+- Quarto;
+- Internação;
+- Quarto.
 
 ## ✏️Diagrama de Entidade Relacionamento
 <img src="./docs/der_model.png" alt="Diagrama de entidade relacionamento do Hospital">
