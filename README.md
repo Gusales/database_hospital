@@ -13,4 +13,4 @@ Um pequeno hospital local busca desenvolver um novo sistema que atenda melhor à
 - Especialização;
 
 ## ✏️Diagrama de Entidade Relacionamento
-<img src="./docs/der_model.jpg" alt="Diagrama de entidade relacionamento do Hospital">
+<img src="./docs/der_model.png" alt="Diagrama de entidade relacionamento do Hospital">
